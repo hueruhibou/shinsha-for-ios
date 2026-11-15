@@ -1,0 +1,27 @@
+{
+  "id": "./?app=iphone",
+  "name": "真写 for iPhone",
+  "short_name": "真写 iPhone",
+  "description": "iPhone向けの写真反転ビューア",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#151619",
+  "theme_color": "#151619",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
